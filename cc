@@ -231,7 +231,7 @@ class AIAssistant:
         self.window.configure(bg="#000000")
         self.window.protocol("WM_DELETE_WINDOW", self.on_close)
 
-        self.api_key = "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"
+        self.api_key = "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"
         self.api_base = "https://openrouter.ai/api/v1"
 
         self.request_count = 0
